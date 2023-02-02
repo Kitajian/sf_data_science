@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# sf_data_science
-=======
-# sf_data_science
-Data science study
->>>>>>> 43dba7b (Initial commit)
+# My data science projects
+
+## Проекты
+
+* [Проект 0. Игра: Угадай число] (https://github.com/Kitajian/sf_data_science)
+
